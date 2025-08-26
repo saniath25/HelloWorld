@@ -1,4 +1,12 @@
-Test Hello
-Test Hello Updated on GitHub
-Test Hello Updated on Local Git Repo
-Test Hello Updated Second Time on GitHub
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Hello World Page</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <p>This is a simple "Hello World" example.</p>
+    </body>
+    </html>
